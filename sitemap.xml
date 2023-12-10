@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://beans-brothers.ru/</loc>
+	<lastmod>2023-09-24T16:30:03+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://beans-brothers.ru/contacts/</loc>
+	<lastmod>2023-09-24T16:30:03+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://beans-brothers.ru/catalog/</loc>
+	<lastmod>2023-09-24T16:30:09+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>http://beans-brothers.ru/cart/</loc>
+	<lastmod>2023-09-24T16:30:27+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
